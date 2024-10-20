@@ -1,0 +1,27 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: start;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+img {
+  height: 40px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.visited-countries-div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.visited-country {
+  border: 2px solid red;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
